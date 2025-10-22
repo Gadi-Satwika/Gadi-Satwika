@@ -34,6 +34,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00C7B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime](https://img.shields.io/badge/Sublime-0078D4?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ---
 
