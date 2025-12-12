@@ -41,7 +41,7 @@
 ### 🏆 My GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gadi-Satwika/React_Mini_Projects/main/trophy.svg" alt="GitHub Trophy"/>
+  <img src="https://streak-stats.demolab.com/?user=Gadi-Satwika&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
