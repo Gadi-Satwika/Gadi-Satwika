@@ -41,8 +41,9 @@
 ### 🏆 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gadi-Satwika&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/Gadi-Satwika/React_Mini_Projects/main/trophy.svg" alt="GitHub Trophy"/>
 </p>
+
 
 
 <p align="center">
