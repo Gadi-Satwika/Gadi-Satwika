@@ -41,9 +41,8 @@
 ### 🏆 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gadi-Satwika&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://r.jina.ai/http://streak-stats.demolab.com/?user=Gadi-Satwika&theme=radical&hide_border=true" alt="GitHub Streaks" />
 </p>
-
 
 
 
