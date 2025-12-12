@@ -44,9 +44,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Gadi-Satwika&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gadi-Satwika&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
