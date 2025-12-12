@@ -41,7 +41,7 @@
 ### 🏆 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gadi-Satwika&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Gadi-Satwika&theme=radical" />
 </p>
 
 
